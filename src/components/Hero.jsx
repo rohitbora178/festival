@@ -3,7 +3,7 @@ import community from "../assets/community.svg";
 import food from "../assets/food.svg";
 import music from "../assets/music.svg";
 import wellness from "../assets/wellness.svg";
-import Corporate from "../assets/corporate.svg";
+import Corporate from "../assets/Corporate.svg";
 import festivalImage from "../assets/mainImage.jpg";
 
 const themes = [
